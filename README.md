@@ -1,19 +1,19 @@
-### Olá, Devs!!
+### Hello, Devs!!
 
-#### Me chamo Felipe, e trabalho como Desenvolvedor Back-End
+#### My name is Felipe, and I work as a Back-End Developer.
 
 
-- 🏢 Atualmente estou trabalhando na **Ibooking Reservas Inteligentes**
-- ⚙️ Uso diariamente: `.php`, `.js`, `.html`, `.css`
-- 🌍 Estou mais ativo principalmente na **Comunidade Laravel**
-- 🌱 Atualmente estou aprendendo **Observabilidade**
+- 🏢 I am currently working at **Robert Bosch**
+- ⚙️ I use daily: `.php`, `.py`, `.tsx`, `.js`
+- 🌍 I am most active in the **Laravel Community**
+- 🌱 I am currently learning about **Observability**
 
 
 <hr>
 
 <div align="center">
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="65" height="65"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="65" height="65"/>
